@@ -4,10 +4,12 @@ This is a simple Application made to learn and develope digit recognition using 
 
 
 ## How to use
+### To directly use the model:
 1. Run pip3 install -r requirements.txt
-2. Run Python main.py
+2. Run Python App.py
 
-
+### To train yourself:
+1. Open the Train.ipynb notebook in google colab or jupyter notebook and run the script.
 
 TODO : 
 1. Improve the UI
